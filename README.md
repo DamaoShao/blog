@@ -1,6 +1,7 @@
 # My log file
 
 ## 开发日志
+#### - [SCVMM的自动化实践](https://github.com/DamaoShao/blog/issues/2)
 
 ## 学习日志
 

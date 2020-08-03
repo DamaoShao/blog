@@ -1,7 +1,7 @@
 # My log file
 
 ## 开发日志
-#### - [SCVMM的自动化实践](https://github.com/DamaoShao/blog/issues/2)
+#### + [SCVMM的自动化实践](https://github.com/DamaoShao/blog/issues/2)
 
 ## 学习日志
 #### - [快速上手Powershell](https://github.com/DamaoShao/blog/issues/3)

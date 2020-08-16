@@ -6,7 +6,6 @@
 
 ## 学习日志
 #### [快速上手Powershell](https://github.com/DamaoShao/blog/issues/3)
-#### kubernetes系列
 <details>
   <summary> kubernetes系列 </summary>
 </details>

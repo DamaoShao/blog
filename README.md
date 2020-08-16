@@ -8,7 +8,7 @@
 #### [快速上手Powershell](https://github.com/DamaoShao/blog/issues/3)
 #### kubernetes系列
 <details>
-  <summary href="https://github.com/DamaoShao/blog/issues/3">第一章</summary>
+  <summary> kubernetes系列 </summary>
 </details>
 
 ## 生活日志
